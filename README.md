@@ -1,8 +1,12 @@
 ## ZALOPAY INTEGRATION IN ANDROID STUDIO (SANDBOX ENVIRONMENT)
 
-Tài liệu: 
+* Document: 
 https://docs.google.com/document/d/1eNJU-O6G-9h9tGdtgfvm6OpD-ge-X8hO8OXCBjpcHCs/edit?usp=sharing
 
-Video Hướng dẫn:
+* Video Tutorials:
 https://www.youtube.com/watch?v=Dhkqwwl1TFg
+
+* Practice Lab:
+
+
 
